@@ -19,6 +19,7 @@ export default function IndexPage() {
           Let me know how this works? 
         </p>
       </div>
+      <div className="flex gap-4">Some info here. How can i pull up this bitch in ma browsah?</div>
       <div className="flex gap-4">
         <Link
           href={siteConfig.links.docs}
