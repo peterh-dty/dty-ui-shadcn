@@ -10,6 +10,7 @@ export default function IndexPage() {
         <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
           Beautifully designed components <br className="hidden sm:inline" />
           built with Radix UI and Tailwind CSS.
+          Let's make a few changes aight?
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground">
           Accessible and customizable components that you can copy and paste
